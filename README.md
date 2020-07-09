@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... Python, Powershell, Terraform & Javascript
-- 🌱 I’m currently learning ... Javascript, Azure, GCP
-- 👯 I’m looking to collaborate on ... Javascript, NodeJS
+- 🔭 I’m currently working on ... Python, Powershell, Terraform and Javascript
+- 🌱 I’m currently learning ... Javascript, Azure and GCP
+- 👯 I’m looking to collaborate on ... Javascript, NodeJS and Python
 - 💬 Ask me about ... Python, JavaScript and Cloud 
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/SKAUL05)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=104)](https://github.com/SKAUL05) <br>
