@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ... Javascript, NodeJS and Python
 - 💬 Ask me about ... Python, JavaScript and Cloud 
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/SKAUL05)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=104)](https://github.com/SKAUL05) <br>
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/SKAUL05)  ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 
 
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/skaul05)
