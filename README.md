@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ... Javascript, NodeJS and Python
 - 💬 Ask me about ... Python, JavaScript and Cloud 
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/SKAUL05)  ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/SKAUL05)  ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SKAUL05.SKAUL05)
 
 
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/skaul05)
@@ -17,6 +17,10 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=SKAUL05&show_icons=true&hide_border=true" alt="Sarath's GitHub Stats">
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKAUL05&show_icons=true)
+
 
 <!--
 **SKAUL05/SKAUL05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
